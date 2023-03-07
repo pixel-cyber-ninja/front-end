@@ -8,3 +8,5 @@ A forum web application (Front-end Part) based on React, TypeScript, TailwindCSS
 - TypeScript
 - TailwindCSS
 - Vite
+- Ant Design UI
+- Day.js
