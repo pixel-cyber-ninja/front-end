@@ -1,0 +1,26 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [],
+  "flagWords": [],
+  "dictionaries": ["custom-words"],
+  "dictionaryDefinitions": [
+    {
+      "name": "custom-words",
+      "path": ".cspell/custom-words.txt",
+      "addWords": true
+    }
+  ],
+  "ignorePaths": [
+    "dist",
+    "node_modules",
+    ".husky/*",
+    "site/public/*",
+    "site/src/assets/*",
+    "site/package.json",
+    "site/pnpm-lock.yaml",
+    ".cspell.json",
+    "README.md",
+    ".cspell/custom-words.txt"
+  ]
+}
